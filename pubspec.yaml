@@ -1,5 +1,5 @@
 name: monero_libs
-description: "A new Flutter FFI plugin project."
+description: "flutter monero library"
 version: 0.0.1
 repository: https://git.mrcyjanek.net/mrcyjanek/monero.dart
 publish_to: https://git.mrcyjanek.net/api/packages/mrcyjanek/pub

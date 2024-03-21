@@ -5,16 +5,16 @@ repository: https://git.mrcyjanek.net/mrcyjanek/monero.dart
 publish_to: https://git.mrcyjanek.net/api/packages/mrcyjanek/pub
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
+  plugin_platform_interface: ^2.0.0
 
 dev_dependencies:
-  ffi: ^2.0.2
+  ffi: ^2.0.0
   ffigen: ^9.0.0
   flutter_test:
     sdk: flutter
